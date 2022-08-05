@@ -1,0 +1,7 @@
+Grid size: 8x15
+
+Character set:
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+0123456789.,;:?!-_~#"'
